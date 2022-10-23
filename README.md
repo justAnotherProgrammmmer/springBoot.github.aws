@@ -5,6 +5,7 @@ This project is created with below objectives in mind
 
 1. Understand how github Projects work
 2. Getting hands on with github-vscode integration
-3. Understanding Java Reactive programming
-4. Use github actions to attempt cicd pipeline
-5. Get integrated with AWS
+3. Understand how Gradle works (and main differences across maven and Gradle)
+4. Understanding Java Reactive programming
+5. Use github actions to attempt cicd pipeline
+6. Get integrated with AWS
